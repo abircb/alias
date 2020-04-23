@@ -1,6 +1,6 @@
 # Bash Aliases
 
-Scripts to create some nifty aliases for your bash shell.
+Scripts to create some nifty aliases for your shell.
 
 ## Usage (UNIX)
 
