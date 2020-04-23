@@ -7,5 +7,5 @@ Scripts to create some nifty aliases for your bash shell.
 Clone the repository and run
 
 ```cli
-cd bash-aliases && ./<alias-you-want-to-create>/install.sh
+cd bash-aliases/<alias-you-want-to-create> && chmod +x ./install.sh && ./install.sh
 ```
