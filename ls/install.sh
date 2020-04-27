@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # alias to only list files
 echo "alias lf='ls -l | egrep -v '^d''" >>  ~/.bash_profile ; . ~/.bash_profile

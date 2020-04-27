@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # clears the screen
 echo "alias c='clear'" >>  ~/.bash_profile ; . ~/.bash_profile

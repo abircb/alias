@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # alias for youtube
 echo "alias youtube='open https://youtube.com'" >>  ~/.bash_profile ; . ~/.bash_profile

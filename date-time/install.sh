@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # time right now
 echo "alias now='date +%T'" >>  ~/.bash_profile ; . ~/.bash_profile

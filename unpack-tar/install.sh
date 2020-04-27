@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # unpacks any tar file
 echo "alias untar='tar -zxvf '" >>  ~/.bash_profile ; . ~/.bash_profile

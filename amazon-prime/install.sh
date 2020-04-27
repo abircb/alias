@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # alias for amazon prime
 echo "alias prime='open https://www.primevideo.com/'" >>  ~/.bash_profile ; . ~/.bash_profile

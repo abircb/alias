@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # alias for netflix
 echo "alias netflix='open https://netflix.com'" >>  ~/.bash_profile ; . ~/.bash_profile
